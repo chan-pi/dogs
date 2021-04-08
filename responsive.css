@@ -23,7 +23,7 @@
 
     .header-top-wrapper{
         background-image:url("グラサン.JPG");
-        background-size:contain;
+        background-size:100% auto;
         height:500px;
         padding-top:;
         background-position:center center;
