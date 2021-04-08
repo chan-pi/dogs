@@ -51,6 +51,10 @@ a{
     color:white;
 }
 
+.fas{
+    text-align:center;
+}
+
 .header-right{
     float:right;
     line-height:80px;
@@ -68,10 +72,6 @@ a{
     width:100%;
     height:100%;
 }
-
-.image-area{
-    
-    }
 
 .image-area img{
     width:200px;
@@ -106,12 +106,6 @@ a{
     color:white;
     text-align:center;
     letter-spacing:5px;
-    
-}
-
-.btn{
-    
-
     
 }
 
@@ -361,13 +355,16 @@ footer{
 .footer a{
     color:white;
     line-height:50px;
-    display:inline-block;
+    
     font-family:'游明朝';
+}
+
+.SP{
+    display:none;
 }
 
 .footer p{
     font-family:'Monotype Corsiva';
     color:white;
 }
-
 
