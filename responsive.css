@@ -22,14 +22,17 @@
     }
 
     .header-top-wrapper{
-        background-image:url("グラサン.JPG");
-        background-size:100% auto;
+        
         height:500px;
-        padding-top:;
-        background-position:center center;
-        background-repeat: no-repeat;
         width:100%;
         position:relative;
+    }
+
+    .bgImg{
+        background-image:url("グラサン.JPG");
+        background-size:100% auto;
+        background-position:center center;
+        background-repeat: no-repeat;
     }
 
     .image-area img{
