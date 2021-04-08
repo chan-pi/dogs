@@ -22,13 +22,6 @@
     }
 
     .header-top-wrapper{
-        width:100%;
-        
-        position:relative;
-        background-image:none;
-    }
-
-    .bgImg{
         background-image:url("グラサン.JPG");
         background-size:cover;
         transform:rotateZ(90deg);
@@ -36,6 +29,8 @@
         background-position:center center;
         background-repeat: no-repeat;
         width:100%;
+        position:relative;
+        background-image:none;
     }
 
     .image-area img{
