@@ -370,3 +370,318 @@ footer{
     color:white;
 }
 
+@media(max-width:1000px){
+    .header-top-wrapper{
+        width:100vw;}
+
+    
+}
+
+
+
+
+@media(max-width:750px){
+    .header-top-wrapper{
+        width:100vw;}
+
+    .header-right a{
+        font-size:20px;
+        margin-right:5px;
+    }
+
+    .header-left{
+        font-size:20px;
+    }
+
+    .big-font{
+        font-size:100px;
+    }
+
+    .header-top-wrapper{
+        background-image:url("https://github.com/chan-pi/dogs/blob/main/%E3%82%B0%E3%83%A9%E3%82%B5%E3%83%B3.JPG?raw=true");
+        background-size:cover;
+        height:600px;
+        background-position:center center;
+        background-repeat: no-repeat;
+        width:100%;
+        position:relative;
+    }
+
+    .image-area img{
+        width:100px;
+        border-radius:100px;
+        opacity:0.7;
+        filter:brightness(90%);
+    }
+
+    .top-gon{
+        margin-top:100px;
+        margin-bottom:-80px;
+    }
+    
+    .left-slinky{
+        float:left;
+        margin-top:-130px;
+    }
+    
+    .right-momo{
+        float:right;
+        margin-top:-130px;
+    }
+
+    .bow{
+        background-color:rgb(236, 139, 139);
+        color:white;
+        font-size:2px;
+        transition:all 1s;
+        display:inline-block;
+    }
+
+    .middle-wrapper{
+        margin-top:100px;
+    }
+    
+    .first{
+        width:100%;
+        height:200px;
+        position:relative;
+    }
+    
+    .first-image{
+        width:100%;
+        height:100%;
+    }
+    
+    .first img{
+        width:100%;
+        height:50%;
+        display:block;
+        box-shadow:
+        0 1.9px 2.5px rgba(0, 0, 0, 0.057),
+        0 5px 6.1px rgba(0, 0, 0, 0.076),
+        0 10.1px 11.4px rgba(0, 0, 0, 0.086),
+        0 19.2px 19.8px rgba(0, 0, 0, 0.092),
+        0 38.4px 34.8px rgba(0, 0, 0, 0.1),
+        0 101px 74px rgba(0, 0, 0, 0.13);
+    }
+    
+    .first-slinky{
+        border-radius:50px 50px 0 0;
+    }
+    
+    .first-momo{
+        border-radius:0 0 50px 50px;
+    }
+    
+    .position-first{
+        background-color:rgb(221, 197, 165);
+        width:30%;
+        border-radius:50px;
+        height:30%;
+        box-shadow:
+        0 1.9px 2.5px rgba(0, 0, 0, 0.057),
+        0 5px 6.1px rgba(0, 0, 0, 0.076),
+        0 10.1px 11.4px rgba(0, 0, 0, 0.086),
+        0 19.2px 19.8px rgba(0, 0, 0, 0.092),
+        0 38.4px 34.8px rgba(0, 0, 0, 0.1),
+        0 101px 74px rgba(0, 0, 0, 0.13);
+        position:absolute;
+        top:0;
+        left:0;
+    }
+    
+    .position-first i{
+        display:block;
+        font-size:20px;
+        text-align:center;
+        margin-bottom:-10px;
+    }
+    
+    .position-first p{
+        font-size:15px;
+        text-align:center;
+    }
+    
+    .second{
+        width:100%;
+        height:200px;
+        position:relative;
+        margin-top:20px;
+    }
+    
+    .second-image{
+        width:100%;
+        height:100%;
+        
+    }
+    
+    .second img{
+        width:100%;
+        height:100%;
+        display:block;
+        border-radius:50px;
+        box-shadow:
+        0 1.9px 2.5px rgba(0, 0, 0, 0.057),
+        0 5px 6.1px rgba(0, 0, 0, 0.076),
+        0 10.1px 11.4px rgba(0, 0, 0, 0.086),
+        0 19.2px 19.8px rgba(0, 0, 0, 0.092),
+        0 38.4px 34.8px rgba(0, 0, 0, 0.1),
+        0 101px 74px rgba(0, 0, 0, 0.13);
+    }
+    
+    .position-second{
+        background-color:rgb(221, 197, 165);
+        width:30%;
+        border-radius:50px;
+        height:30%;
+        box-shadow:
+        0 1.9px 2.5px rgba(0, 0, 0, 0.057),
+        0 5px 6.1px rgba(0, 0, 0, 0.076),
+        0 10.1px 11.4px rgba(0, 0, 0, 0.086),
+        0 19.2px 19.8px rgba(0, 0, 0, 0.092),
+        0 38.4px 34.8px rgba(0, 0, 0, 0.1),
+        0 101px 74px rgba(0, 0, 0, 0.13);
+        position:absolute;
+        top:0;
+        left:0;
+    }
+    
+    .position-second i{
+        display:block;
+        font-size:20px;
+        text-align:center;
+        margin-bottom:-10px;
+    }
+    
+    .position-second p{
+        font-size:15px;
+        text-align:center;
+        
+    }
+    
+    .story{
+        text-align:center;
+        margin-top:300px;
+    }
+    
+    .story h2{
+        font-size:100px;
+        font-family:'Monotype Corsiva';
+        opacity:0.7;
+        letter-spacing:10px;
+        
+    }
+    
+    .story h4{
+        font-size:30px;
+        font-family:'HG正楷書体-PRO';
+        margin-top:-30px;
+    }
+    
+    .story p{
+        font-family:'游明朝';
+    }
+    
+    .four{
+        display:flex;
+        flex-wrap:wrap;
+        margin-top:50px;
+        margin-bottom:100px;
+        box-shadow:
+        -10px 10px 25px rgba(0, 0, 0, 0.4),
+        10px -10px 25px rgba(0, 0, 0, 0.4);
+        position:relative;
+    }
+    
+    .dazzling{
+        width:100%;
+        height:300px;
+    }
+    
+    .dazzling img{
+        width:100%;
+        height:100%;
+        
+    }
+    
+    .dazzling-comment{
+        width:100%;
+        text-align:center;
+        background-color:cornsilk;
+        position:absolute;
+        top:200px;
+
+    }
+    
+    .dazzling-comment h3{
+        height:50px;
+        line-height:50px;
+    }
+    
+    .dazzling-comment p{
+        height:50px;
+    }
+    
+    .soon{
+        width:100%;
+        height:300px;
+    }
+    
+    .soon img{
+        width:100%;
+        height:100%;
+    }
+    
+    .soon-comment{
+        width:100%;
+        text-align:center;
+        background-color:cornsilk;
+        position:absolute;
+        top:500px;
+    }
+    
+    .soon-comment h3{
+        height:50px;
+        line-height:50px;
+    }
+    
+    .soon-comment p{
+        height:50px;
+    }
+    
+    footer{
+        background-color:rgba(94, 50, 18, 1);
+        margin-bottom:-8px;
+        height:300px;
+        width:100%;
+    }
+    
+    .footer{
+        text-align:center;
+        flex-direction:column;
+    }
+    
+    .footer a{
+        color:white;
+        line-height:50px;
+        
+        font-family:'游明朝';
+        font-size:20px;
+    }
+
+    .PC{
+        display:none;
+    }
+
+    .SP{
+        display:block;
+        
+    }
+    
+    .footer p{
+        font-family:'Monotype Corsiva';
+        color:white;
+    }
+    
+}
+
