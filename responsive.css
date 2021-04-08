@@ -1,3 +1,4 @@
+
 @media(max-width:750px){
     .header-top-wrapper{
         width:100vw;}
@@ -8,7 +9,12 @@
     }
 
     .header-left{
-        font-size:20px;
+        font-size:15px;
+    }
+
+    .header-left a{
+        color:white;
+
     }
 
     .big-font{
@@ -18,6 +24,7 @@
     .header-top-wrapper{
         background-image:url("グラサン.JPG");
         background-size:cover;
+        transform:rotateZ(90deg);
         height:600px;
         background-position:center center;
         background-repeat: no-repeat;
@@ -53,6 +60,7 @@
         font-size:8px;
         transition:all 1s;
         display:inline-block;
+        letter-spacing: -3px;
     }
 
     .middle-wrapper{
@@ -285,7 +293,7 @@
     }
 
     .SP{
-        display:block;
+       
         color:white;
         line-height:50px;
         font-family:'游明朝';
