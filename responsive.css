@@ -31,6 +31,7 @@
     .bgImg{
         background-image:url("グラサン.JPG");
         background-size:cover;
+        transform:rotateZ(90deg);
         height:1000px;
         background-position:center center;
         background-repeat: no-repeat;
