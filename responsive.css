@@ -20,6 +20,7 @@
     .big-font{
         font-size:50px;
         margin:30px;
+        position:relative;
         z-index: 2;
     }
 
@@ -48,18 +49,21 @@
         margin-top:100px;
         margin-bottom:-80px;
         z-index: 1;
+        position:relative;
     }
     
     .left-slinky{
         float:left;
         margin-top:-80px;
         z-index: 1;
+        position:relative;
     }
     
     .right-momo{
         float:right;
         margin-top:-80px;
         z-index: 1;
+        position:relative;
     }
 
     .bow{
