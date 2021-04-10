@@ -18,7 +18,7 @@
     }
 
     .big-font{
-        font-size:70px;
+        font-size:50px;
     }
 
     .header-top-wrapper{
@@ -50,12 +50,12 @@
     
     .left-slinky{
         float:left;
-        margin-top:-130px;
+        margin-top:-80px;
     }
     
     .right-momo{
         float:right;
-        margin-top:-130px;
+        margin-top:-80px;
     }
 
     .bow{
